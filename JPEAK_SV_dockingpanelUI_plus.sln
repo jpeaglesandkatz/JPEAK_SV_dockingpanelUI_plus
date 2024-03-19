@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPEAK_SV_dockingpanelUI_plus", "JPEAK_SV_dockingpanelUI_plus\JPEAK_SV_dockingpanelUI_plus.csproj", "{23BA7A85-D528-4DDB-AFF4-0BB875E06821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23BA7A85-D528-4DDB-AFF4-0BB875E06821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BA7A85-D528-4DDB-AFF4-0BB875E06821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BA7A85-D528-4DDB-AFF4-0BB875E06821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BA7A85-D528-4DDB-AFF4-0BB875E06821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38FE56CF-542D-4AFC-A963-3AA66391453B}
+	EndGlobalSection
+EndGlobal
