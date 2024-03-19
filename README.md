@@ -1,4 +1,4 @@
-Some personal scaling changes to the Docking UI and all sub panels (inventory/ equipment and such)
+Some personal scaling changes to the Docking UI and all sub panels (inventory/ equipment and such).. Since well personally I don't really like the HUGE fonts..
 
 It changes the dark gray resource stash category titles and equipment titles to brighter and more visible color...
 
