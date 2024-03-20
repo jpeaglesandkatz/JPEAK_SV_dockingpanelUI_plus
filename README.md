@@ -9,4 +9,6 @@ Always backup your savegames before using any mod
 Installation: copy the .dlll file into your Star Valor/Bepinex/plugins folder
 and play
 
+**NOTE: YOU NEED THE 32-BIT/X86 VERSION OF BEPINEX FOR STAR VALOR, NOT THE 64-BIT**
+
 ![dockingpanelUI_plus](https://github.com/jpeaglesandkatz/JPEAK_SV_dockingpanelUI_plus/assets/10682544/2c015283-fb82-44be-8bc4-96578a5c2449)
